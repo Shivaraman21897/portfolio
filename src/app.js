@@ -20,6 +20,10 @@ function App() {
           <Route path='/' element={<HomePage />} exact />
           <Route path='/blog' element={<BlogPage />} exact />
           <Route path='/projects' element={<ProjectPage />} exact />
+          <Route
+            path="*"
+            element={<Navigate to="/" replace />}
+          />
         </Routes>
       </Router>
       <BackToTop />
