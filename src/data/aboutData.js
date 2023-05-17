@@ -6,6 +6,4 @@ export const aboutData = {
     description4:"As a problem solver at heart, I enjoy tackling challenges and finding elegant solutions. I approach problems with a logical and analytical mindset, breaking them down into manageable steps. This approach helps me create efficient algorithms and design elegant solutions that deliver tangible results",
     description5:"In addition to my technical expertise, I value effective collaboration and communication. I have experience working in teams and understand the importance of clear communication to ensure smooth project execution. I actively contribute to a positive and productive team environment, bringing my skills and enthusiasm to deliver high-quality solutions.",
     description6:"If you have any exciting projects or opportunities, I would be delighted to connect and discuss how my skills and passion for programming can contribute to their success. Let's collaborate and build something amazing together!"
-}
-
-``
+};
