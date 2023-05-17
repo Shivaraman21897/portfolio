@@ -22,7 +22,7 @@ function App() {
           <Route path='/projects' element={<ProjectPage />} exact />
           <Route
             path="*"
-            element={<Navigate to="/" replace />}
+            element={<Navigate to="/portfolio" replace />}
           />
         </Routes>
       </Router>
