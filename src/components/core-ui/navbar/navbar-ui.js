@@ -80,7 +80,7 @@ function NavbarUI({ theme, shortname, classes, handleDrawerOpen, handleDrawerClo
 
                         <Fade left>
                             <NavLink
-                                to='/#about'
+                                to='/about'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -96,7 +96,7 @@ function NavbarUI({ theme, shortname, classes, handleDrawerOpen, handleDrawerClo
 
                         <Fade left>
                             <NavLink
-                                to='/#resume'
+                                to='/resume'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -129,7 +129,7 @@ function NavbarUI({ theme, shortname, classes, handleDrawerOpen, handleDrawerClo
 
                         <Fade left>
                             <NavLink
-                                to='/#blog'
+                                to='/blog'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -147,7 +147,7 @@ function NavbarUI({ theme, shortname, classes, handleDrawerOpen, handleDrawerClo
 
                         <Fade left>
                             <NavLink
-                                to='/#contacts'
+                                to='/contacts'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
